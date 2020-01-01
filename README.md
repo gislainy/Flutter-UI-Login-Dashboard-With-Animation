@@ -1,16 +1,11 @@
-# fluter_animation_login_dashboard
+# Flutter UI Login Dashboard With Animation
 
-A new Flutter project.
+This project is dedicated to the study of UI in Flutter.
 
-## Getting Started
+Animated UI with login from panel following an explanation of the video (https://www.youtube.com/watch?v=jlGly3pxrYg)
 
-This project is a starting point for a Flutter application.
+## Screenshot
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![home](https://raw.githubusercontent.com/gislainy/Flutter-UI-Login-Dashboard-With-Animation/master/screenshots/home.jpeg)
+![login](https://raw.githubusercontent.com/gislainy/Flutter-UI-Login-Dashboard-With-Animation/master/screenshots/login.jpeg)
+![dashboard](https://raw.githubusercontent.com/gislainy/Flutter-UI-Login-Dashboard-With-Animation/master/screenshots/dashboard.jpeg)
